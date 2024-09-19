@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+/* TYPOGRAFI */
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #2a8981;
+}
+
+/* ELEMENT */
+
+body {
+  background-color: #f4fffe;
+}
+
+footer {
+  background-color: #1e645d;
+  color: #fff5f5;
+  padding: 10px;
+}
+
+footer p {
+  margin: 0;
+  line-height: 1.5em;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: #a5cfcc;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+
+section img {
+  width: 100%;
+}
+
+.color {
+  font-weight: bold;
+}
+
+/* NAVIGATION */
+
+nav {
+  background-color: #1e645d;
+}
+
+nav ul {
+  list-style: none;
+  padding: 10px;
+}
+
+nav li {
+  display: inline;
+  padding-right: 20px;
+}
+
+/* LÄNKAR */
+a {
+  color: #dff6f4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
