@@ -44,6 +44,14 @@ section img {
   width: 100%;
 }
 
+#main-page {
+  text-align: center;
+}
+
+#main-page img {
+  width: 40%;
+}
+
 .color {
   font-weight: bold;
 }
